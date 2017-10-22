@@ -5,7 +5,7 @@ permalink:      /:year-:month-:day/:title
 title:          Tale
 paginate:       5
 baseurl:        "/blog"
-url:            "https://echosun.github.com"
+url:            "https://echosun.github.io"
 
 # Assets
 sass:
